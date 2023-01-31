@@ -1,2 +1,9 @@
-# kidneyresearch
-PhD level project that was presented at the ISES-ISIAQ and the ISEE in 2019 for the significant results regarding renal function.
+# Biomarker-Based Assessment of the Influence of Chemical Exposures on Chronic Kidney Disease
+
+Background/Aim: Chronic Kidney Disease (CKD) was the 9th leading cause of death in the United States in 2015. Previous studies have identified environmental toxicants such as Per- and polyfluoroalkyl substances (PFASs) and heavy metals to be associated with CKD but focused on only a handful of chemical classes corresponding with a few biomarkers of CKD. To better understand the influence of environmental toxicants on CKD, we implemented an overarching screening approach to systematically evaluate the associations between chemical biomarkers and biomarkers of CKD as well as identify populations at risk for CKD.
+
+Methods: We used the National Health and Nutritional Examination Survey (NHANES) of 167 chemicals and 4 biomarkers of CKD (Cystatin, Glomerular Filtration Rate (GFR), Albumin, and Creatinine) measured in 18881 participants 1999-2002. For every pairwise combination of CKD and chemical biomarkers, we conducted a series of linear regression models to determine the association of one biomarker of CKD and chemical exposure adjusted for covariates such as age, race, gender, poverty income ratio, and cotinine (biomarker of smoking).
+
+Results: For a 1 unit increase in chemical biomarker levels, we identified Heptachlorodibenzofuran and Oxychlordane decrease GFR by 29% and 28% respectively, and a few PFASs decreases albumin levels by 4-12%, implying an increased risk for CKD. Additionally, Non-Hispanic Blacks, Mexican Americans, & Other Hispanic Americans on average have Albumin levels that are higher compared to those of Non-Hispanic Whites by 57%, 10% and 19%, respectively, implying that they are at a higher risk for CKD.
+
+Conclusions: Overall, we presented a framework that systematically identified populations susceptible to CKD and environmental toxicants that are either risk or protective factors for CKD. Ongoing work is understanding how these toxicants influence biological pathways associated with CKD to better elucidate the link between environmental exposures and kidney health.
